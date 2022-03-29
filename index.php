@@ -1,14 +1,6 @@
 <!DOCTYPE html>
 <html>
-
-<html>
-<head>
-	<meta charset="utf-8">
-	<title>Nuru Shop</title>
-</head>
-<body>
-  
-  
+   
 <head>
   <!-- Basic -->
   <meta charset="utf-8" />
@@ -20,7 +12,7 @@
   <meta name="description" content="" />
   <meta name="author" content="" />
 
-  <title> Eatveg </title>
+  <title> Nuru Shop </title>
 
   <!-- bootstrap core css -->
   <link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
@@ -511,7 +503,7 @@
             <a href="">
               <i class="fa fa-envelope" aria-hidden="true"></i>
               <span>
-                Email : demo@gmail.com
+                Email : nurusayak7@gmail.com
               </span>
             </a>
           </div>
