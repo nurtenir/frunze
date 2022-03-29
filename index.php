@@ -399,7 +399,7 @@
           <div class="b-1">
             <div class="client_id">
               <div class="img-box">
-                <img src="images/client-1.jpg" alt="">
+                <img src="images/photo5339250846011078772.jpg" alt="">
               </div>
               <div class="name">
                 <h5>
@@ -421,7 +421,7 @@
         <div class="box">
           <div class="client_id">
             <div class="img-box">
-              <img src="images/client-2.jpg" alt="">
+              <img src="images/cphoto5339250846011078771.jpg" alt="">
             </div>
             <div class="name">
               <h5>
