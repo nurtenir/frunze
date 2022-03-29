@@ -1,6 +1,14 @@
 <!DOCTYPE html>
 <html>
 
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Nuru Shop</title>
+</head>
+<body>
+  
+  
 <head>
   <!-- Basic -->
   <meta charset="utf-8" />
@@ -497,7 +505,7 @@
             <a href="">
               <i class="fa fa-phone" aria-hidden="true"></i>
               <span>
-                Call : +01 123455678990
+                Call : +99650248457
               </span>
             </a>
             <a href="">
@@ -536,7 +544,7 @@
   <script type="text/javascript" src="js/bootstrap.js"></script>
   <script type="text/javascript" src="js/custom.js"></script>
   <!-- Google Map -->
-  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCh39n5U-4IoWpsVGUHWdqB6puEkhRLdmI&callback=myMap"></script>
+  <script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A252108f74c3c1a9ebc2954349d1a67dc0709fb87dc0b551e44e45ca98e2b2a9c&amp;width=1053&amp;height=674&amp;lang=ru_RU&amp;scroll=true"></script>
   <!-- End Google Map -->
 </body>
 
