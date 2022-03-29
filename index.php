@@ -37,7 +37,7 @@
         <nav class="navbar navbar-expand-lg custom_nav-container">
           <a class="navbar-brand" href="index.html">
             <span>
-              NUru Shop
+              Nuru Shop
             </span>
           </a>
           <div class="" id="">
@@ -421,7 +421,7 @@
         <div class="box">
           <div class="client_id">
             <div class="img-box">
-              <img src="images/cphoto5339250846011078771.jpg" alt="">
+              <img src="images/photo5339250846011078771.jpg" alt="">
             </div>
             <div class="name">
               <h5>
