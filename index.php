@@ -28,7 +28,7 @@
 
 <body>
   <div class="hero_area">
-    <div class="hero_bg_box">
+    <div class=" _bg_box">
       <img src="images/hero-bg.jpg" alt="">
     </div>
     <!-- header section strats -->
