@@ -37,7 +37,7 @@
         <nav class="navbar navbar-expand-lg custom_nav-container">
           <a class="navbar-brand" href="index.html">
             <span>
-              Eatveg
+              NUru Shop
             </span>
           </a>
           <div class="" id="">
@@ -403,17 +403,17 @@
               </div>
               <div class="name">
                 <h5>
-                  Maya Jonas
+                  Aizat Maksatbekova
                 </h5>
                 <h6>
-                  Housewife
+                  bussinesswoman
                 </h6>
               </div>
             </div>
           </div>
           <div class="client_detail">
             <p>
-              It is a long established fact that a reader will be distracted by the readable content of a page when
+              Nurtenir!It is a long established fact that a reader will be distracted by the readable content of a page when
               looking at its layout. The point of using Lorem
             </p>
           </div>
@@ -425,10 +425,10 @@
             </div>
             <div class="name">
               <h5>
-                Helen Law
+                Sayora Faizieva
               </h5>
               <h6>
-                Housewife
+                student
               </h6>
             </div>
           </div>
@@ -536,7 +536,7 @@
   <script type="text/javascript" src="js/bootstrap.js"></script>
   <script type="text/javascript" src="js/custom.js"></script>
   <!-- Google Map -->
-  <script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A252108f74c3c1a9ebc2954349d1a67dc0709fb87dc0b551e44e45ca98e2b2a9c&amp;width=1053&amp;height=674&amp;lang=ru_RU&amp;scroll=true"></script>
+  <<script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A252108f74c3c1a9ebc2954349d1a67dc0709fb87dc0b551e44e45ca98e2b2a9c&amp;width=720&amp;height=480&amp;lang=ru_RU&amp;scroll=true"></script>
   <!-- End Google Map -->
 </body>
 
