@@ -474,9 +474,9 @@
               <a href="">
                 <i class="fa fa-linkedin" aria-hidden="true"></i>
               </a>
-              <a href="">
+              <a href="https://www.instagram.com/nuru___a/">
                 <i class="fa fa-instagram" aria-hidden="true"></i>
-                <a href="https://www.instagram.com/nuru___a/">Instagram</a>
+            
               </a>
             </div>
           </div>
