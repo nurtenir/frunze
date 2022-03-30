@@ -468,10 +468,10 @@
               <a href="">
                 <i class="fa fa-facebook" aria-hidden="true"></i>
               </a>
-              <a href="">
+              <a href="https://twitter.com/nuru___a">
                 <i class="fa fa-twitter" aria-hidden="true"></i>
               </a>
-              <a href="">
+              <a href="https://web.telegram.org/z/">
                 <i class="fa fa-linkedin" aria-hidden="true"></i>
               </a>
               <a href="https://www.instagram.com/nuru___a/">
