@@ -14,8 +14,8 @@
 
   <title> Nuru Shop </title>
    
-   <head>
- <link rel="shortcut icon" href="nuru" type="image/x-icon">
+ <head>
+ <link rel="shortcut icon" href="./images/nuru.jpg" type="image/x-icon">
 </head>
       
    
