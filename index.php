@@ -13,6 +13,12 @@
   <meta name="author" content="" />
 
   <title> Nuru Shop </title>
+   
+   <head>
+ <link rel="shortcut icon" href="nuru" type="image/x-icon">
+</head>
+      
+   
 
   <!-- bootstrap core css -->
   <link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
